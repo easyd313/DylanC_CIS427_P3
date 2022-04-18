@@ -1,6 +1,7 @@
-// Java implementation of Server side
-// It contains two classes : Server and ClientHandler
-// Save file as Server.java
+//Author: Dylan Crompton
+//Date Modified: 4/17/2022
+//Date Created: 4/12/2022
+//Purpose: Geometry Solver Client
 
 import java.io.*;
 import java.util.*;
@@ -23,7 +24,7 @@ public class Server {
     
 
     public static void main(String[] args) throws IOException {
-        // server is listening on port 1234
+        // server is listening on port 8728
         ServerSocket ss = new ServerSocket(8728);
         Socket s;
         

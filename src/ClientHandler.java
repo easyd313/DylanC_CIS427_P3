@@ -1,4 +1,7 @@
-
+//Author: Dylan Crompton
+//Date Modified: 4/17/2022
+//Date Created: 4/12/2022
+//Purpose: Geometry Solver Client
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.File;
