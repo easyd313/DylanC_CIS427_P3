@@ -1,0 +1,7 @@
+radius 4:  Circle's circumference is 25.13 and area is 50.27
+radius 4:  Circle's circumference is 25.13 and area is 50.27
+sides 4 4:  Rectangle's perimeter is 16 and area is 16
+sides 4 5:  Rectangle's perimeter is 18 and area is 20
+radius 4:  Circle's circumference is 25.13 and area is 50.27
+sides 9 9:  Rectangle's perimeter is 36 and area is 81
+sides 4 90:  Rectangle's perimeter is 188 and area is 360

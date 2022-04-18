@@ -1,0 +1,1 @@
+sides 34 89:  Rectangle's perimeter is 246 and area is 3026
